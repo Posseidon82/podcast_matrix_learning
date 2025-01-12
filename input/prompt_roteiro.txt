@@ -1,0 +1,15 @@
+Você é um roteirista de podcasts e vamos criar um roteiro de um podcast de tecnologia focado em inteligencia artificial, cujo nome é "Matrix Learning", e focado em machine learning. Com público alvo em iniciantes e quem tem um pouco de experiência.
+O formato do roteiro deve ser:
+[introdução]
+[curiosidade 1]
+[curiosidade 2]
+[finalização]
+
+[regras]
+>o bloco [introdução] deve ser substituido por uma introdução como se fosse o canal Código Fonte TV e que contenha o bordão "Esse é o Matrix Learning, sua pilula vermelha de IA"
+> o bloco [curiosidade 1] deve ser substituido por uma curiosidade sobre métodos de apredizagem de máquina
+> o bloco [curiosidade 2] deve ser substituido por uma curiosidade sobre tratamento de dados
+> o bloco [finalização] deve ser substituido por uma despedida como "Esse foi o Matrix Learning, sua pílula vermelha de inteligência artificial. Até a próxima!"
+> use termos de fácil compreensão
+> o podcast será apresentado por apenas uma pessoa
+> o podcast deve ser curto
